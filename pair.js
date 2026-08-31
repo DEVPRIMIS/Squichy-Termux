@@ -17,7 +17,6 @@ const WORKER_SERVERS = [
     'http://198.71.59.43:3007',
     'http://198.71.59.43:3008',
     'http://198.71.59.43:3009',
-    'http://169.58.37.185:25576',
 ];
 
 const WORKER_SECRET = process.env.WORKER_SECRET || 'smd_worker_4f8a1c7e2b9d3f60';
