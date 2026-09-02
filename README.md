@@ -1,13 +1,7 @@
 <div align="center">
 
-```
-███████╗ ██████╗ ██╗   ██╗██╗ ██████╗██╗  ██╗██╗   ██╗
-██╔════╝██╔═══██╗██║   ██║██║██╔════╝██║  ██║╚██╗ ██╔╝
-███████╗██║   ██║██║   ██║██║██║     ███████║ ╚████╔╝ 
-╚════██║██║▄▄ ██║██║   ██║██║██║     ██╔══██║  ╚██╔╝  
-███████║╚██████╔╝╚██████╔╝██║╚██████╗██║  ██║   ██║   
-╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   
-```
+# Squichy Bot
+### *by DsPrimis*
 
 ### ⚔ WhatsApp Automation, Made Simple ⚔
 
@@ -73,7 +67,7 @@ platform with Node.js — including a phone via **Termux**.
 
 ```bash
 pkg update && pkg install nodejs git -y
-git clone https://github.com/DEVPRIMIS/Squichy-Termux.git
+git clone https://github.com/dsprimis/Squichy-Termux.git
 cd Squichy-Termux
 npm install
 node pair.js
@@ -82,7 +76,7 @@ node pair.js
 ### Linux / macOS / WSL
 
 ```bash
-git clone https://github.com/DEVPRIMIS/Squichy-Termux.git
+git clone https://github.com/dsprimis/Squichy-Termux.git
 cd Squichy-Termux
 npm install
 node pair.js
@@ -91,6 +85,9 @@ node pair.js
 ---
 
 ## 🖥 Usage
+
+On launch, you'll see a quick typewriter intro (*Squichy Bot* → *by
+DsPrimis* → *Squichy Bot*), then the pairing prompt:
 
 ```
 $ node pair.js
