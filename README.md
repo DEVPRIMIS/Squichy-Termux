@@ -4,11 +4,10 @@
 
 ![Node.js CI](https://github.com/DEVPRIMIS/Squichy-Termux/actions/workflows/node-ci.yml/badge.svg)
 ![Node](https://img.shields.io/badge/Node.js-18%2B-39FF14?style=for-the-badge&logo=node.js&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-00cc44?style=for-the-badge)
 
-[![Fork Repo](https://img.shields.io/badge/Fork-Repo-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DEVPRIMIS/Squichy-Termux/fork)
-[![Site Pairing](https://img.shields.io/badge/Site-Pairing-00cc44?style=for-the-badge&logo=googlechrome&logoColor=white)](https://squichy-bot.zone.id)
-[![Telegram Pairing](https://img.shields.io/badge/Telegram-Pairing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/squichy_bot)
+[![Fork Repo](https://img.shields.io/badge/Fork-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DEVPRIMIS/Squichy-Termux/fork)
+[![Site Pairing](https://img.shields.io/badge/Site-00cc44?style=for-the-badge&logo=googlechrome&logoColor=white)](https://squichy-bot.zone.id)
+[![Telegram Pairing](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/squichy_bot)
 
 </div>
 
